@@ -1,0 +1,46 @@
+2019-12-23 12:28:44 [main] INFO  com.stream.data.StreamOperations -
+				Display the names of all players
+2019-12-23 12:28:44 [main] INFO  com.stream.data.StreamOperations -
+				=========================================
+2019-12-23 12:28:44 [main] INFO  com.stream.data.StreamOperations -
+				=========================================
+2019-12-23 12:28:44 [main] INFO  com.stream.data.StreamOperations -
+				Display the name of players whose highest score is more than 100 and belong to a particular country
+2019-12-23 12:28:44 [main] INFO  com.stream.data.StreamOperations -
+				=========================================
+2019-12-23 12:28:44 [main] INFO  com.stream.data.StreamOperations -
+				=========================================
+2019-12-23 12:28:44 [main] INFO  com.stream.data.StreamOperations -
+				Create a LinkedHashSet containing names of all Players, whose highest score is more than or equal to 100
+2019-12-23 12:28:44 [main] INFO  com.stream.data.StreamOperations -
+				=========================================
+2019-12-23 12:28:44 [main] INFO  com.stream.data.StreamOperations -
+				=========================================
+2019-12-23 12:28:44 [main] INFO  com.stream.data.StreamOperations -
+				Display the average runs scored by players from a particular Country
+2019-12-23 12:28:44 [main] INFO  com.stream.data.StreamOperations -
+				=========================================
+2019-12-23 12:28:44 [main] INFO  com.stream.data.StreamOperations -
+				=========================================
+2019-12-23 12:28:44 [main] INFO  com.stream.data.StreamOperations -
+				Create a list with names of Players sorted as per country and then by matchesPlayed(desc)
+2019-12-23 12:28:44 [main] INFO  com.stream.data.StreamOperations -
+				=========================================
+2019-12-23 12:28:44 [main] INFO  com.stream.data.StreamOperations -
+				=========================================
+2019-12-23 12:28:44 [main] INFO  com.stream.data.StreamOperations -
+				Create a map with the PlayerName and CountryName of all players who have played more than 200 matches
+2019-12-23 12:28:44 [main] INFO  com.stream.data.StreamOperations -
+				=========================================
+2019-12-23 12:28:44 [main] INFO  com.stream.data.StreamOperations -
+				=========================================
+2019-12-23 12:28:44 [main] INFO  com.stream.data.StreamOperations -
+				Display the details of the player who has scored maximum runs
+2019-12-23 12:28:44 [main] INFO  com.stream.data.StreamOperations -
+				=========================================
+2019-12-23 12:28:44 [main] INFO  com.stream.data.StreamOperations -
+				=========================================
+2019-12-23 12:28:44 [main] INFO  com.stream.data.StreamOperations -
+				Search and display the player details for a given player name and country name
+2019-12-23 12:28:44 [main] INFO  com.stream.data.StreamOperations -
+				=========================================
